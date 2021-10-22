@@ -1,5 +1,5 @@
 body {
-    color: white;
+    color: #fff;
 }
 
 .choice-container {
@@ -7,7 +7,7 @@ body {
     margin-bottom: 0.8rem;
     width: 100%;
     border-radius: 4px;
-    background: blue;
+    background: rgb(18, 93, 255);
     font-size: 3rem;
     min-width: 80rem;
 }
